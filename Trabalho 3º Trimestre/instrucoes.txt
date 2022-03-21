@@ -1,0 +1,15 @@
+O trabalho consiste em um sistema de floricultura que pode guardar flores e suas informações,
+podendo adcionar, remover e mostra-las tanto em conjunto como as especificidades de uma em individual
+
+Ja criei o banco de dados e adcionei duas flores para testes do trabalho...
+A criação do banco se encontra no fim do arquivo banco.py (comentada) e das tabelas no arquivo tabelas.sql
+
+No arquivo erros adcionei um erro para melhorar a visualização, pois, quando não houver dados,
+os prints serão descartados. Classe utilizada em mostra_flores no banco.py
+
+As funções e classes do banco.py são o contato direto com o banco de dados
+fazendo as alterações e buscando os dados do mesmo.
+
+As funções do main.py, recebem as instruções e dados a serem buscados, adicionados ou removidos do banco.
+
+A utilização deve ser feita na interface.
